@@ -1,1 +1,2 @@
-hello, thi is a test
+hello, this is a test
+spagetti flavoured ice cream
